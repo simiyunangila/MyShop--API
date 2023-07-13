@@ -1,4 +1,4 @@
-package com.example.myshop_api
+package com.example.myshop_api.model
 
 data class product(
     var id: Int,
